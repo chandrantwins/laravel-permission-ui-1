@@ -1,11 +1,11 @@
 {
-    "name": "pilabrem/laravel-permission-ui",
+    "name": "chandrantwins/laravel-permission-bladeui",
     "description": "Laravel permission management UI for spatie/laravel-permission",
     "license": "MIT",
     "authors": [
         {
-            "name": "pilabrem",
-            "email": "pilabrem@gmail.com"
+            "name": "Chandran Nepolean",
+            "email": "Chandrantwins@gmail.com"
         }
     ],
     "minimum-stability": "stable",
